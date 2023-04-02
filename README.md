@@ -20,6 +20,28 @@ When looking at the entire population of the production lot, the variance of the
 
 ## T-Tests on Suspension Coils
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3AllManufacturingLots.png)
+The mean of the sample is 1498.78 and p-value is 0.06028, which is larger than 0.05. We fail to reject the null hypothesis. 
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3Lot1.png)
+
+Lot 1's sample mean is 1500 and has a p-value of 1. The p-value shows that their is no statistical difference between the sample mean and presumed population mean and we fail to reject the null hypothesis. 
+
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3Lot2.png)
+
+Lot 2 has essentially the same outcome of Lot 1 with a sample mean of 1500.02. The p-Value is 0.61; we fail to reject the null hypothesis cannot be rejected.
+
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3Lot3.png)
+
+Unsurpising, Lot 3 varies greatly from Lot 1 and 2.The sample mean is 1496.14 and the p-Value is 0.04, which is smaller than the common significance level of 0.05. All indicating to reject the null hypothesis that this sample mean and the presumed population mean are not statistically different.
+
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+In your description, address the following questions:
+
+What metric or metrics are you going to test?
+
+What is the null hypothesis or alternative hypothesis?
+
+What statistical test would you use to test the hypothesis? And why?
+
+What data is needed to run the statistical test?

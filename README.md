@@ -16,7 +16,9 @@ When looking at the entire population of the production lot, the variance of the
 
 ## T-Tests on Suspension Coils
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3AllManufacturingLots.png)
+
 The mean of the sample is 1498.78 and the p-value is 0.06028, which is larger than 0.05. We fail to reject the null hypothesis. 
+
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part3Lot1.png)
 
 Lot 1's sample mean is 1500 and has a p-value of 1. We fail to reject the null hypothesis because the p-value shows that there is no statistical difference between the sample mean and the presumed population mean. 

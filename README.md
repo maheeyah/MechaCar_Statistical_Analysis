@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
 ![This is an image](https://github.com/maheeyah/MechaCar_Statistical_Analysis/blob/main/Part1Screenshot.png)
+
 1. In this dataset, the Vehicle Length and Ground Clearance are the variables that are statistically likely to provide a non-random amount of variance to the mpg values. 
 
 2. The p-value for this linear model is 5.35e-11. If the assumed significance level of 0.05%, the p-value in this model is far smaller, which indicates that there is sufficient evidence to reject our null hypothesis and that the slope of this linear model is not zero.
